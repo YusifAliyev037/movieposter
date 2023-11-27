@@ -96,6 +96,6 @@ const data = movies.Search.map((i) => {
 
     </div>
 </div>`
-});
+}).join("");
 
 containerMovies.innerHTML = data
